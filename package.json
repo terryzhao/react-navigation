@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@react-navigation/core": "^3.5.0",
-    "@react-navigation/native": "^3.6.2"
+    "@react-navigation/native": "https://github.com/terryzhao/native/tarball/master"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^8.0.0",
